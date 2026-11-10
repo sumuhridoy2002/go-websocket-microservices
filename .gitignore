@@ -1,0 +1,21 @@
+# Executables / Binaries
+*.exe
+*.dll
+*.so
+*.dylib
+bin/
+
+# Temporary and Air live reload files
+tmp/
+*.log
+build-errors.log
+
+# Node & Frontend build dependencies
+node_modules/
+.next/
+out/
+build/
+
+# Environment variables
+.env
+.env.local
